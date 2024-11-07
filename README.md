@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About me : 
-
-I'm Mishan Jung Shah, I'm interested in making computer applications.
+## :D 
