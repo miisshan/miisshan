@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mishan Jung Shah</h1>
-<h3 align="center">Currently learning and building</h3>
+<h3 align="center">Learning and building</h3>
 
 - Currently learning : **MERN stack**
 
